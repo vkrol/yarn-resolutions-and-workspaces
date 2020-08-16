@@ -1,0 +1,12 @@
+{
+  "name": "yarn-resolutions-and-workspaces",
+  "private": true,
+  "workspaces": ["types-packages/knockout"],
+  "devDependencies": {
+    "@types/knockout": "3.4.67",
+    "knockout": "1.0.0"
+  },
+  "resolutions": {
+    "@types/knockout": "knockout@1.0.0"
+  }
+}
